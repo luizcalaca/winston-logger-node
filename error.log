@@ -1,0 +1,102 @@
+{"level":"error","message":"teste","service":"user-service"}
+undefined [undefined] error: teste
+undefined [undefined] error: teste
+undefined [undefined] error: teste
+2023-01-11T12:12:56.396Z [undefined] [31merror[39m: teste
+2023-01-11T12:13:40.224Z [undefined] [31merror[39m: teste
+2023-01-11T12:13:48.962Z [undefined] [31merror[39m: teste
+2023-01-11T12:13:57.949Z [undefined] [31merror[39m: teste
+2023-01-11T12:13:58.008Z [undefined] [31merror[39m: teste
+2023-01-11T12:14:02.909Z [undefined] [31merror[39m: teste
+2023-01-11 09:15:05 [undefined] [31merror[39m: teste
+2023-01-11 09:15:09 [undefined] [31merror[39m: teste
+2023-01-11 09:15:09 [undefined] [31merror[39m: teste
+2023-01-11 09:16:00 [31merror[39m: teste
+2023-01-11 09:16:14 [31merror[39m: teste
+2023-01-11 09:16:52 [31merror[39m: teste
+2023-01-11 09:16:52 [31merror[39m: Error
+2023-01-11 09:17:02 [31merror[39m: teste
+2023-01-11 09:17:02 [31merror[39m: Error
+2023-01-11 09:17:34 [31merror[39m: teste
+2023-01-11 09:17:34 [31merror[39m: Error
+2023-01-11 09:18:05 [31merror[39m: teste
+2023-01-11 09:18:05 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-01-11 09:19:54 [31merror[39m: teste
+2023-01-11 09:19:54 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-01-11 09:19:59 [31merror[39m: teste
+2023-01-11 09:19:59 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-01-11 09:21:08 [31merror[39m: teste
+2023-01-11 09:21:08 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-01-11 09:21:10 [31merror[39m: teste
+2023-01-11 09:21:10 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-01-11 09:47:53 [31merror[39m: teste
+2023-01-11 09:47:53 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-01-11 09:48:05 [31merror[39m: teste
+2023-01-11 09:48:05 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-01-11 09:48:12 [31merror[39m: teste
+2023-01-11 09:48:12 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2023-01-11 09:48:34 [31merror[39m: teste
+2023-01-11 09:48:34 [31merror[39m: Error: Error
+    at Object.<anonymous> (/Users/luizcalaca/winston/index.js:6:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
